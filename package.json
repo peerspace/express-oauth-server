@@ -24,7 +24,7 @@
   "dependencies": {
     "bluebird": "^3.0.5",
     "express": "^4.13.3",
-    "oauth2-server": "next",
+    "oauth2-server": "git+ssh://git@github.com:peerspace/node-oauth2-server.git#v3.0.0-b3.1",
     "thenify": "^3.0.0"
   },
   "devDependencies": {
